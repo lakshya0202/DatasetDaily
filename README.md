@@ -1,6 +1,6 @@
 # Dataset Daily
 
-Dataset Daily is an email list that receives a dataset each Monday and analytics updates throughout the week. This repository is meant for the data and code snippets that go on throughout the week to build the models. 
+[Dataset Daily](https://www.datasetdaily.com) is a community of data junkies. Dataset Daily sends a dataset on Monday with analysis throughout the week. This repository is meant for the data and code snippets that go on throughout the week.
 
 ## Getting Started
 

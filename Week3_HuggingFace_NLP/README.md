@@ -17,5 +17,3 @@ Now you can run, Dash works as a Flask app
 ```
 python app.py
 ```
-
-Also includes a Procfile in case you want to deploy to Heroku.

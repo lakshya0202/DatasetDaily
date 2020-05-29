@@ -1,0 +1,99 @@
+@font-face {
+    font-family: Inter;
+    src: url(Inter-SemiBold.otf);
+ } 
+@font-face {
+    font-family: Inter-med;
+    src: url(Inter-Medium.otf);
+} 
+@font-face {
+    font-family: Inter-reg;
+    src: url(Inter-Regular.otf);
+} 
+@font-face {
+    font-family: Inter-semibold;
+    src: url(Inter-SemiBold.otf);
+} 
+@font-face {
+    font-family: Inter-italic;
+    src: url(Inter-Italic.otf);
+} 
+
+h3 {
+    letter-spacing: 0.23rem;
+}
+html, body {
+    height: 100%;
+}
+body {
+    min-height: 100%;
+    margin: 0; /* This will stop the margin, setting it to 0 */
+}
+
+.bold-text {
+    font-family: "Inter-semibold";
+    font-size: 2.0em;
+}
+
+.bold-text2 {
+    font-family: "Inter-reg";
+    font-size: 1.5em;
+}
+
+.reg-text {
+    font-family: "Inter-reg"
+}
+
+p {
+    color: #555555;
+    line-height: 1.5;
+    letter-spacing: .25px;
+    word-wrap: break-word;
+}
+
+._dash-undo-redo {
+    display: none;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+#button {
+    font-family: "Inter-med";
+    width: 70%;
+    background-color: rgb(255, 115, 0);
+    color: white;
+    border: none;
+}
+
+#button:hover {
+    font-family: "Inter-med";
+    width: 70%;
+    background-color: rgb(255, 102, 0);
+    color: white;
+    border: none;
+}
+
+#input {
+    font-family: "Inter-reg", sans-serif;
+    font-size: 22px;
+    width: 70%;
+    border: 1px grey solid; 
+    height: 500px;
+    margin-top: 0%;
+}                            
+
+#input:focus {
+    font-family: "Inter-reg", sans-serif;
+    font-size: 22px;
+    width: 70%;
+    box-shadow: 1px 1px 1px 1px rgb(255, 115, 0);
+    border: 1px rgb(255, 115, 0) solid;
+    height: 500px;
+    margin-top: 0%;
+}

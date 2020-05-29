@@ -1,8 +1,21 @@
-# Dataset Daily, Week 3 - HuggingFace NLP
+# Dataset Daily Week 3 - NLP
 
-## Extra requirements for this week
+To test the application install the necessary libs and run locally. 
 
-Using a python3 environment, run the following to install all the libraries used in this repository:
+If you haven't already, join [Dataset Daily](https://www.datasetdaily.com).
+
+Sample app running on [Heroku](https://nlp.datasetdaily.com).
+
+## To deploy yourself
+
+Using a python3 environment, run the following to install all the libraries used in this part of the repository:
 ```
-pip install nlp
+pip install -r requirements.txt
 ```
+
+Now you can run, Dash works as a Flask app
+```
+python app.py
+```
+
+Also includes a Procfile in case you want to deploy to Heroku.

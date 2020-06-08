@@ -1,6 +1,6 @@
-# Dataset Daily Week 3 - Spotify Track Data
+# Dataset Daily Week 5 - Maritime Madness
 
-To test the application install the necessary libs and check out this week's project. 
+The Jupyter Notebook is set up with the code necessary to load this week's dataset.
 
 If you haven't already, join [Dataset Daily](https://www.datasetdaily.com).
 
@@ -9,9 +9,4 @@ If you haven't already, join [Dataset Daily](https://www.datasetdaily.com).
 Using a python3 environment, run the following to install all the libraries used in this part of the repository:
 ```
 pip install -r requirements.txt
-```
-
-Now you're ready.
-```
-streamlit run week5.py
 ```

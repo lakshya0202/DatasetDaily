@@ -6,5 +6,4 @@ Data Sources: [Kalboard Learning Management System](https://www.kaggle.com/aljar
 
 ## Citation
 
-Elaf Abu Amrieh, Thair Hamtini, and Ibrahim Aljarah, The University of Jordan, Amman, Jordan, http://www.Ibrahimaljarah.com
-www.ju.edu.jo
+Elaf Abu Amrieh, Thair Hamtini, and Ibrahim Aljarah, The University of Jordan, Amman, Jordan.
